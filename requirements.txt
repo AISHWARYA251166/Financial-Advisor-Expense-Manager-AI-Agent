@@ -1,0 +1,7 @@
+streamlit
+pillow
+pandas
+plotly
+google-generativeai
+PyPDF2
+langchain

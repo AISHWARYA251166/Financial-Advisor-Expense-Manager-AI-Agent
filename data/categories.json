@@ -1,0 +1,52 @@
+{
+  "food": [
+    "swiggy",
+    "zomato",
+    "restaurant",
+    "cafe",
+    "hotel",
+    "dominos",
+    "mcdonald",
+    "canteen",
+    "biryani",
+    "meal"
+  ],
+  "transport": [
+    "ola",
+    "uber",
+    "fuel",
+    "petrol",
+    "bus",
+    "train",
+    "metro",
+    "auto",
+    "taxi"
+  ],
+  "entertainment": [
+    "netflix",
+    "prime",
+    "movie",
+    "spotify",
+    "concert",
+    "game"
+  ],
+  "shopping": [
+    "amazon",
+    "flipkart",
+    "myntra",
+    "mall",
+    "store",
+    "zara",
+    "ajio"
+  ],
+  "utilities": [
+    "electricity",
+    "bill",
+    "water",
+    "broadband",
+    "recharge",
+    "utility",
+    "internet"
+  ],
+  "other": []
+}
