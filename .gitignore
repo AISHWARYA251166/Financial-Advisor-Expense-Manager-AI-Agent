@@ -1,0 +1,44 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# -------------------------
+# Streamlit Secrets
+# -------------------------
+.streamlit/secrets.toml
+
+# -------------------------
+# Databases (local only)
+# -------------------------
+*.db
+*.sqlite3
+
+# -------------------------
+# IDE / Editor files
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Static build files (optional)
+# -------------------------
+dist/
+build/
