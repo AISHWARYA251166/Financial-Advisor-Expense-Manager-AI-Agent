@@ -14,6 +14,9 @@ An AI-powered financial advisor and expense management system that provides pers
 # Project Demo 
 https://drive.google.com/drive/folders/1Un1Wsu3ganXEa4Y4WwzcKQpiVdq-KG89?usp=sharing
 
+# Working Prototype
+https://financial-advisor-expense-manager-ai-agent.streamlit.app
+
 # Key Features
 
 1. Automated Expense Extraction – Gemini-only OCR & structured JSON extraction from payment screenshots, receipts, and statements.
