@@ -1,6 +1,6 @@
 # Financial Advisor & Expense Manager AI Agent
 
-An AI-powered financial advisor and expense management system that provides advance financial guidance and automated expense tracking. The project combines Advance financial data analysis, Google Gemini Vision for receipt/screenshot extraction and Gemini LLM for financial advice to help users understand, manage, and optimize their personal finances.
+An AI-powered financial advisor and expense management system that provides advance financial guidance and automated expense tracking. The project combines financial data analysis, Google Gemini Vision for receipt/screenshot extraction and Gemini LLM for financial advice to help users understand, manage, and optimize their personal finances.
 
 # Project Overview
 
@@ -22,7 +22,7 @@ https://financial-advisor-expense-manager-ai-agent.streamlit.app
 1. Automated Expense Extraction – Gemini-only OCR & structured JSON extraction from payment screenshots, receipts, and statements.
 2. Expense Categorization – Classifies expenses into categories such as food, entertainment, transport, and more.
 3. Financial Data Integration – Supports data from Splitwise, UPI payments, and CSV uploads.
-4. Personalized Financial Advice – Provides AI-generated financial insights inspired by popular financial philosophies (e.g., Warren Buffett, Robert Kiyosaki, Ramit Sethi).
+4. Personalized Financial Advice – Provides AI-generated financial insights inspired by popular financial philosophies (e.g., Warren  Buffett, Robert Kiyosaki, Ramit Sethi).
 5. Budgeting & Analytics – Visual dashboards for spending analysis, budgeting, and financial summaries.
 6. Content Uploads – Users can upload PDFs or articles for financial content processing.
 7. Indian Context Support – Handles Indian banking formats, UPI transactions, and investment suggestions (SIP, ELSS, tax-saving plans).
