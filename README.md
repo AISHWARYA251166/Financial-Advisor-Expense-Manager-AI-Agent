@@ -1,6 +1,6 @@
 # Financial Advisor & Expense Manager AI Agent
 
-An AI-powered financial advisor and expense management system that provides personalized financial guidance and automated expense tracking. The project combines financial data analysis, Google Gemini Vision for receipt/screenshot extraction and Gemini LLM for financial advice to help users understand, manage, and optimize their personal finances.
+An AI-powered financial advisor and expense management system that provides advance financial guidance and automated expense tracking. The project combines financial data analysis, Google Gemini Vision for receipt/screenshot extraction and Gemini LLM for financial advice to help users understand, manage, and optimize their personal finances.
 
 # Project Overview
 
